@@ -1,2 +1,1 @@
-print("Hola tengo nuevos cambios checkout")
-print("Hello git")
+print("Hola primer cambio en GitHub")
